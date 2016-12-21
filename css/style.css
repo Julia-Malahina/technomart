@@ -394,31 +394,30 @@ h3 {
 
 .main-menu ul {
     margin: 0;
-    padding: 20px 25px 20px 51px;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
 }
 
 .main-menu li {
     margin: 0;
-    display: inline-block;
-    vertical-align: top;
-}
-
-.main-menu li:first-child {
-    padding: 0 60px 0 0;
-}
-
-.main-menu li:nth-child(2), .main-menu li:nth-child(3), .main-menu li:nth-child(4), .main-menu li:nth-child(5) {
-    padding: 0 55px 0 0;
-}
-
-.main-menu li:last-child {
-    padding: 0 0 0 61px;
+    font: normal 17px/17px "Cuprum", "PT Sans", "Arial", sans-serif;
 }
 
 .main-menu a {
+    display: block;
     margin: 0;
-    padding: 0;
+    padding: 20px 25px;
     color: #ffffff;
+}
+
+.main-menu a:hover {
+    background-color: #293449;
+}
+
+.main-menu a:active {
+    color: #a1a4a8;
+    background-color: #1d2739;
 }
 
 /* -----MAIN----- */
@@ -753,9 +752,13 @@ span {
 
 .block-list .actions .buy,
 .block-list .actions .bookmark {
+    margin: 0 auto;
+}
+
+.block-list .actions .buy,
+.block-list .actions .bookmark {
     display: block;
     width: 129px;
-    margin: 0 auto;
     margin-bottom: 7px;
     padding: 7px 0;
     border: 3px solid #63a63e;
@@ -1181,6 +1184,16 @@ span {
     font: normal 18px/24px "Cuprum", "PT Sans", sans-serif;
 }
 
+.top-menu a:hover,
+.lower-menu a:hover {
+    text-decoration: underline;
+}
+
+.top-menu a:active,
+.lower-menu a:active {
+    opacity: .5;
+}
+
 .lower-menu a {
     margin: 0;
     padding: 0;
@@ -1373,6 +1386,15 @@ span {
     margin: 0;
     font: normal 16px/18px "Cuprum", "PT Sans", sans-serif;
     color: #ffd180;
+}
+
+.color:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.color:active {
+    color: #ee3643;
 }
 
 /*!----- begin popup-----*/
