@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="276cda73-2094-413a-b460-3720bf45a8ff" name="Default" comment="первая страница готова">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modal-map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/popup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog.html" afterPath="$PROJECT_DIR$/catalog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="276cda73-2094-413a-b460-3720bf45a8ff" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="technomart.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +28,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="139">
-                  <caret line="398" column="0" lean-forward="true" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+                <state relative-caret-position="354">
+                  <caret line="403" column="37" lean-forward="true" selection-start-line="403" selection-start-column="35" selection-end-line="403" selection-end-column="40" />
                   <folding>
                     <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -48,8 +44,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="1044" column="16" lean-forward="false" selection-start-line="1044" selection-start-column="16" selection-end-line="1044" selection-end-column="16" />
+                <state relative-caret-position="429">
+                  <caret line="1392" column="19" lean-forward="false" selection-start-line="1392" selection-start-column="19" selection-end-line="1392" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
@@ -75,6 +71,7 @@
       <find>block-map</find>
       <find>map</find>
       <find>block-transport-company</find>
+      <find>main-menu</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -88,8 +85,8 @@
         <option value="$PROJECT_DIR$/js/popup.js" />
         <option value="$PROJECT_DIR$/js/modal-map.js" />
         <option value="$PROJECT_DIR$/catalog.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -268,15 +265,23 @@
       <updated>1482145887551</updated>
       <workItem from="1482145901237" duration="1725000" />
       <workItem from="1482231006018" duration="19302000" />
-      <workItem from="1482302409189" duration="2433000" />
+      <workItem from="1482302409189" duration="6254000" />
     </task>
+    <task id="LOCAL-00001" summary="index.html been drawn up">
+      <created>1482310848270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1482310848270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23460000" />
+    <option name="totallyTimeSpent" value="27281000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="742" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="742" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14211309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -332,7 +337,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первая страница готова" />
-    <option name="LAST_COMMIT_MESSAGE" value="первая страница готова" />
+    <MESSAGE value="index.html been drawn up" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html been drawn up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -414,21 +420,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="1044" column="16" lean-forward="false" selection-start-line="1044" selection-start-column="16" selection-end-line="1044" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="398" column="0" lean-forward="true" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+        <state relative-caret-position="354">
+          <caret line="403" column="37" lean-forward="true" selection-start-line="403" selection-start-column="35" selection-end-line="403" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="1392" column="19" lean-forward="false" selection-start-line="1392" selection-start-column="19" selection-end-line="1392" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
